@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>Tom</firstname>
+        <lastname>Cruise</lastname>
+        <birthdate>1970-07-03T00:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2015-03-07T11:43:00.000Z</lastupdate>
+            <weight>80.0</weight>
+            <height>1.72</height>
+            <bmi>26.78</bmi>
+        </healthprofile>
+    </person>
+    <person id="2">
+        <firstname>Daniel</firstname>
+        <lastname>Craig</lastname>
+        <birthdate>1970-07-03T00:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2013-03-06T12:43:00.000Z</lastupdate>
+            <weight>85.0</weight>
+            <height>1.84</height>
+            <bmi>36.78</bmi>
+        </healthprofile>
+    </person>
+    <person id="3">
+        <firstname>Angelina</firstname>
+        <lastname>Jolie</lastname>
+        <birthdate>1970-07-03T00:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2011-11-09T12:41:00.000Z</lastupdate>
+            <weight>65.0</weight>
+            <height>1.65</height>
+            <bmi>43.56</bmi>
+        </healthprofile>
+    </person>
+</people>
