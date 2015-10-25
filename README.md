@@ -14,8 +14,7 @@ The project is divided in 3 packages:
 	<li><code>model</code>: this package contains two Java classes, <code>HealthProfile.java</code> and <code>Person.java</code>, which are the 
 	rappresentation of Person and HealthProfile objects.</li>
 	<li><code>people</code>: this package contains two Java classes, <code>JAXBMarshaller.java</code> and <code>JAXBUnMarshaller.java</code>. The
-	first one does the Marshalling from Java objects to a XML file (people.xml), the second one does the Un-Marshalling from <code>people.xml</code>, 
-	to Java objects.</li>
+	first one does the Marshalling from Java objects to a XML file (people.xml), the second one does the Un-Marshalling from <code>people.xml</code>	to Java objects.</li>
 	<li>The remaining Java classes are <code>PeopleXPath.java</code>, which handles several XPath operations; <code>PeopleWriter.java</code>, 
 	which Marshalls Java objects to <code>people.xml</code>; <code>PeopleJson.java</code>, which Marshalls Java objects to <code>people.json</code>.</li>
 </ul>
